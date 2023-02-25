@@ -128,7 +128,7 @@ The viewer's get_usb_devices() method is then called to get a list of USB device
 <b> N.B: And some other information depending on the Platform </b>
 
 ## Screenshot's
-![PastUSB Proof of Concept](https://github.com/Hrishikesh7665/PastUSB/blob/resources/PastUSB_POC.png)
+<img alt="PastUSB Proof of Concept" src="../resources/PastUSB_POC.png" height=400 width=500>
 
 ## Contributing
 
