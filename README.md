@@ -1,8 +1,11 @@
-[![](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org)
-
+<div align="center">
+ <a href="https://www.python.org">
+    <img src="https://forthebadge.com/images/badges/made-with-python.svg">
+  </a>
+  
 # PastUSB
 PastUSB is a forensic tool that provides a complete record of USB device activity on both Windows and Linux operating systems. Monitor all USB device insertions and removals, examine information such as device name, manufacturer, and serial number, and uncover any unauthorized access attempts to your computer with PastUSB.
-
+</div>
 
 ## Features
 - Track the insertion and removal of USB devices on Windows and Linux systems
@@ -123,6 +126,9 @@ The viewer's get_usb_devices() method is then called to get a list of USB device
 
 
 <b> N.B: And some other information depending on the Platform </b>
+
+## Screenshot's
+![PastUSB Proof of Concept](https://github.com/Hrishikesh7665/PastUSB/blob/resources/PastUSB_POC.png)
 
 ## Contributing
 
